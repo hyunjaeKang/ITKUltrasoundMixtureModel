@@ -1,0 +1,14 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 7173683
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = -107.97 -107.971 0
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 0.793899 0.793902 0.725577
+DimSize = 272 272 208
+ElementType = MET_DOUBLE
+ElementDataFile = tissueRayleigh-TEE.zraw
